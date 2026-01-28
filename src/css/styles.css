@@ -88,3 +88,17 @@
   }
 }
 
+.load-more-btn {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  background-color: #4e75ff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.is-hidden {
+  display: none;
+}
+
